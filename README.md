@@ -56,8 +56,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.codechef.com/users/keerthi_raj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodeChef logo" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=A52A2A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodeChef logo" />
+</a>
+
 </div>
 
 ###

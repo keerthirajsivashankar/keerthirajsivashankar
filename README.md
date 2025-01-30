@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="Django logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
 </div>
@@ -42,16 +42,16 @@
 <h3 align="left">📫 Connect with Me</h3>
 
 <div align="left">
-  <a href="https://linkedin.com/in/keerthirajsivashankar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
   <a href="https://github.com/keerthirajsivashankar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
   </a>
-  <a href="https://www.hackerrank.com/keerthirajsivashankar" target="_blank">
+<a href="https://www.linkedin.com/in/keerthi-raj-s-74a8a824b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ks7186" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
   </a>
-  <a href="https://leetcode.com/keerthirajsivashankar" target="_blank">
+  <a href="https://leetcode.com/u/keerthiraj_s/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
   <a href="mailto:keerthirajsivashankar@gmail.com">

@@ -31,8 +31,8 @@
 
 <h3 align="left">🌱 Current Focus</h3>
 
-- 🚀 Learning **Next.js** for full-stack development  
-- 🔍 Building **Fake Social Media Detection System** using Machine Learning  
+- 🚀 Learning **Next.js** and **django** for full-stack development  
+- 🔍 Building **Fake Social Media Detection System** and **Fraud Detection for Credit card Transactions** using Machine Learning  
 - 💡 Improving problem-solving skills on **LeetCode & CodeChef**  
 
 ###

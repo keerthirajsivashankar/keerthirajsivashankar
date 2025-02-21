@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keerthi Raj S and I'm a passionate Full-Stack Web Developer from India.</h2>
+<h2 align="left">Hi 👋! My name is Keerthi Raj S and I'm a aspiring Full-Stack Web Developer from India.</h2>
 
 ###
 

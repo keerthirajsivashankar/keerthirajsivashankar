@@ -2,7 +2,7 @@
   <h1>Hi 👋! I'm Keerthi Raj S</h1>
   <h3>Aspiring Full-Stack Web Developer from India</h3>
 
-  <div style="background: linear-gradient(135deg, #1e273a, #2d3a52); padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); width: 600px; max-width: 95%; margin-top: 30px;">
+  <div style="background: linear-gradient(135deg, #1e273a, #2d3a52); padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); width: 400px; max-width: 95%; margin-top: 30px;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
       <div style="flex: 1; min-width: 280px;">
         <h4 style="color: #fff; margin-bottom: 15px;">📊 GitHub Stats</h4>

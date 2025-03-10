@@ -1,17 +1,20 @@
 <h2 align="left">Hi 👋! My name is Keerthi Raj S and I'm an aspiring Full-Stack Web Developer from India.</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <!-- GitHub Stats Card with Styling -->
-  <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keerthirajsivashankar&theme=dracula" height="150" alt="GitHub Stats" style="border-radius: 16px;" />
+  <!-- Top Two Cards Side by Side -->
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; width: 100%;">
+    <!-- GitHub Stats Card -->
+    <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); flex: 1; min-width: 300px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keerthirajsivashankar&theme=dracula" height="150" alt="GitHub Stats" style="border-radius: 16px; width: 100%;" />
+    </div>
+
+    <!-- Top Languages Card -->
+    <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); flex: 1; min-width: 300px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keerthirajsivashankar&theme=dracula" height="150" alt="Top Languages" style="border-radius: 16px; width: 100%;" />
+    </div>
   </div>
 
-  <!-- Top Languages Card -->
-  <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keerthirajsivashankar&theme=dracula" height="150" alt="Top Languages" style="border-radius: 16px;" />
-  </div>
-
-  <!-- Activity Graph -->
+  <!-- Activity Graph (Full Width Below) -->
   <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%; max-width: 800px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=dracula&hide_border=true&area=true" height="150" alt="Activity Graph" style="border-radius: 16px; width: 100%;" />
   </div>

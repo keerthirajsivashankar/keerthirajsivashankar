@@ -10,7 +10,7 @@
 
     <!-- Top Languages Card -->
     <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); flex: 1; min-width: 300px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keerthirajsivashankar&theme=dracula" height="150" alt="Top Languages" style="border-radius: 16px; width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthirajsivashankar&layout=compact&theme=dracula" height="150" alt="Top Languages" style="border-radius: 16px; width: 100%;" />
     </div>
   </div>
 

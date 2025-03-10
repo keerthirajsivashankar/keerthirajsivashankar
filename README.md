@@ -2,17 +2,17 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- GitHub Stats Card with Styling -->
-  <div style="background: #2D2D2D; padding: 15px; border-radius: 15px; border: 2px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keerthirajsivashankar&theme=dracula" height="150" alt="GitHub Stats" style="border-radius: 10px;" />
   </div>
 
   <!-- Top Languages Card -->
-  <div style="background: #2D2D2D; padding: 15px; border-radius: 15px; border: 2px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keerthirajsivashankar&theme=dracula" height="150" alt="Top Languages" style="border-radius: 10px;" />
   </div>
 
   <!-- Activity Graph -->
-  <div style="background: #2D2D2D; padding: 15px; border-radius: 15px; border: 2px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%; max-width: 800px;">
+  <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid #444; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%; max-width: 800px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=dracula&hide_border=true&area=true" height="150" alt="Activity Graph" style="border-radius: 10px; width: 100%;" />
   </div>
 </div>

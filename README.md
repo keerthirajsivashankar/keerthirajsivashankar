@@ -15,7 +15,7 @@
   </div>
 
   <!-- Activity Graph (Full Width Below) -->
-  <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%; max-width: 800px;">
+  <div style="background: #2D2D2D; padding: 15px; border-radius: 16px; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=dracula&hide_border=true&area=true" height="150" alt="Activity Graph" style="border-radius: 16px; width: 100%;" />
   </div>
 </div>

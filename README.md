@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/keerthirajsivashankar?style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/keerthirajsivashankar?style=social" alt="GitHub Stars" />
+  <a href="https://github.com/keerthirajsivashankar">
+    <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Keerthi Raj's GitHub Stats" />
+  </a>
+  <a href="https://github.com/keerthirajsivashankar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthirajsivashankar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 ###
@@ -22,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30" alt="django logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30" alt="Django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
 </div>
@@ -31,8 +35,8 @@
 
 <h3 align="left">🌱 Current Focus</h3>
 
-- 🚀 Learning **Next.js** and **django** for full-stack development  
-- 🔍 Building **Fake Social Media Detection System** and **Fraud Detection for Credit card Transactions** using Machine Learning  
+- 🚀 Learning **Next.js** and **Django** for full-stack development  
+- 🔍 Building **Fake Social Media Detection System** and **Fraud Detection for Credit Card Transactions** using Machine Learning  
 - 💡 Improving problem-solving skills on **LeetCode & CodeChef**  
 
 ###

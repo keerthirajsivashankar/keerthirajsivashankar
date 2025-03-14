@@ -53,10 +53,10 @@
       <td width="50%" align="center">
         <h3>✨ Developer Toolbox</h3>
         <div>
-          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0078D4&color=white" style="border-radius: 8px; padding: 5px;" alt="VS Code"/>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=white" style="border-radius: 8px; padding: 5px;" alt="Git"/>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626&color=white" style="border-radius: 8px; padding: 5px;" alt="Jupyter"/>
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37&color=white" style="border-radius: 8px; padding: 5px;" alt="Postman"/>
+          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
         </div>
       </td>
       <td width="50%" align="center">
@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="background: white; border-radius: 8px; padding: 5px;" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">

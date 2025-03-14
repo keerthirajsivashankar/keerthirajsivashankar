@@ -49,7 +49,7 @@
     <tr>
       <td width="50%" align="center">
         <h3>🔥 Streak Stats</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthirajsivashankar&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=keerthirajsivashankar&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
       </td>
       <td width="50%" align="center">
         <h3>🏆 Achievements</h3>
@@ -120,15 +120,15 @@
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/96/000000/nextjs.png" alt="Next.js" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
         <br>Mastering Next.js
       </td>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/96/000000/machine-learning.png" alt="ML" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="ML" width="60" height="60"/>
         <br>ML Projects
       </td>
       <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/96/000000/code.png" alt="Problem Solving" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Problem Solving" width="60" height="60"/>
         <br>Competitive Coding
       </td>
     </tr>

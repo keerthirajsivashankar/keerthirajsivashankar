@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://keerthirajsivashankar.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=GoogleHome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -51,8 +51,8 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>🔥 Streak Stats</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&fire=0099ff&ring=0099ff&currStreakLabel=0099ff" alt="GitHub Streak" width="100%" />
+        <h3>🚀 Coding Activity</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=react-dark&bg_color=0D1117&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=0099ff" alt="Activity Graph" width="100%" />
       </td>
       <td width="50%" align="center">
         <h3>🏆 Achievements</h3>
@@ -117,7 +117,7 @@
 
 ---
 
-<h2 align="center">🚀 Current Focus</h2>
+<h2 align="center">🌟 Current Focus</h2>
 
 <div class="bento-card" align="center">
   <table>
@@ -164,8 +164,14 @@
 ---
 
 <div align="center">
-  <h2>💡 My Coding Journey</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <h2>🌠 Latest Blog Posts</h2>
+  
+  <!-- BLOG-POST-LIST:START -->
+  <!-- This section will be automatically updated with your latest blog posts -->
+  <!-- Add the github-readme-blog-workflow to your repository to make this work -->
+  <!-- BLOG-POST-LIST:END -->
+  
+  <p>Stay tuned for upcoming tech articles and project insights!</p>
 </div>
 
 ---

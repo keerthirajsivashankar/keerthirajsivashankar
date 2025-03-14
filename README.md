@@ -51,8 +51,17 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>🚀 Coding Activity</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=react-dark&bg_color=0D1117&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=0099ff" alt="Activity Graph" width="100%" />
+        <h3>✨ Developer Toolbox</h3>
+        <div>
+          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+          <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+        </div>
       </td>
       <td width="50%" align="center">
         <h3>🏆 Achievements</h3>
@@ -164,14 +173,49 @@
 ---
 
 <div align="center">
-  <h2>🌠 Latest Blog Posts</h2>
-  
-  <!-- BLOG-POST-LIST:START -->
-  <!-- This section will be automatically updated with your latest blog posts -->
-  <!-- Add the github-readme-blog-workflow to your repository to make this work -->
-  <!-- BLOG-POST-LIST:END -->
-  
-  <p>Stay tuned for upcoming tech articles and project insights!</p>
+  <h2>🌌 Learning Journey</h2>
+  <table>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">🚀</div>
+          <div>
+            <strong>Next Goal:</strong> Contributing to open-source Next.js projects
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">⚡</div>
+          <div>
+            <strong>Currently:</strong> Building ML models for fraud detection systems
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">✅</div>
+          <div>
+            <strong>Accomplished:</strong> Full-stack web development with React & Django
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">📚</div>
+          <div>
+            <strong>Started:</strong> Learning programming with Python fundamentals
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

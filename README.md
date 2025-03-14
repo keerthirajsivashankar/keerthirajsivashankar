@@ -24,6 +24,9 @@
   <a href="https://www.codechef.com/users/keerthi_raj">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+  <a href="https://keerthirajsivashankar.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 <br/>
@@ -49,7 +52,7 @@
     <tr>
       <td width="50%" align="center">
         <h3>🔥 Streak Stats</h3>
-        <img src="https://streak-stats.demolab.com/?user=keerthirajsivashankar&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&fire=0099ff&ring=0099ff&currStreakLabel=0099ff" alt="GitHub Streak" width="100%" />
       </td>
       <td width="50%" align="center">
         <h3>🏆 Achievements</h3>

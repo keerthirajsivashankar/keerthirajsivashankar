@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Keerthi%20Raj%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Profile Header" />
 </div>
 
-<div align="left" style="display: flex; justify-content: space-between; width: 100%;">
+<div align="left" style="display: flex; justify-content: space-between; width: 100%; flex-direction:row;">
   <h2>👋 About Me</h2>
   <!-- About Me Section -->
   <div style="width: 48%;">

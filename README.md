@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Keerthi%20Raj%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Profile Header" />
 </div>
 
-<div width = "100%">
-  <h2>About me</h2>
+<div width = "100%" align = "center">
+  <h2>👋 About me</h2>
   <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">

@@ -2,7 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Keerthi%20Raj%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Profile Header" />
 </div>
 
-# 👨‍💻 Full-Stack Developer | ML Enthusiast
+<div align="left" style="width: 100%;">
+  <h2>👋 About Me</h2>
+  <p>🎓 B.Tech IT, SRM Institute, 2026 Graduate</p>
+  <p>💻 Full-Stack Developer with ML interest</p>
+  <p>🤖 Building AI-powered fraud detection systems</p>
+  <p>🚀 130+ day streak on LeetCode challenges</p>
+  <p>🏆 Alpha Training Group, Ranked 18th position</p>
+  <p>🌱 Learning Next.js for full-stack development</p>
+  <p>🤝 Collaborative, passionate, and solution-oriented developer</p>
+</div>
+
+<br>
 
 <div align="center">
   <p><em>Aspiring full-stack developer from India with a passion for building web applications and exploring machine learning solutions.</em></p>
@@ -93,10 +104,6 @@
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="65" height="65" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         <br>MySQL
       </td>
@@ -113,10 +120,6 @@
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
         <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
-        <br>Next.js
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />

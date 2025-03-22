@@ -3,18 +3,16 @@
 </div>
 
 <div>
+  <h2>About me</h2>
   <table align="center" width="100%">
   <tr>
-    <!-- About Me Section -->
     <td width="50%" valign="top">
-      <h2>👋 About Me</h2>
       <p>🎓 B.Tech IT, SRM Institute, 2026 Graduate</p>
       <p>💻 Full-Stack Developer with ML interest</p>
       <p>🤖 Building AI-powered fraud detection systems</p>
       <p>🚀 130+ day streak on LeetCode challenges</p>
     </td>
     <td width="50%" valign="top">
-      <h2>🏆 Achievements</h2>
       <p>🌟 Alpha Training Group, Ranked 18th</p>
       <p>📚 Learning Next.js for full-stack development</p>
       <p>🔍 Enhanced problem-solving and coding skills</p>

@@ -14,7 +14,7 @@
     </td>
 
     <!-- Achievements Section -->
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
       <h2>🏆 Achievements</h2>
       <p>🌟 Alpha Training Group, Ranked 18th</p>
       <p>📚 Learning Next.js for full-stack development</p>

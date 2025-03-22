@@ -2,27 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Keerthi%20Raj%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Profile Header" />
 </div>
 
-<table align="left" width="100%">
-  <tr>
-    <!-- About Me Section -->
-    <td width="50%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>🎓 B.Tech IT, SRM Institute, 2026 Graduate</p>
-      <p>💻 Full-Stack Developer with ML interest</p>
-      <p>🤖 Building AI-powered fraud detection systems</p>
-      <p>🚀 130+ day streak on LeetCode challenges</p>
-    </td>
-
-    <!-- Achievements Section -->
-  <td width="50%" valign="top">
-      <h2>🏆 Achievements</h2>
-      <p>🌟 Alpha Training Group, Ranked 18th</p>
-      <p>📚 Learning Next.js for full-stack development</p>
-      <p>🔍 Enhanced problem-solving and coding skills</p>
-      <p>🤝 Collaborative, passionate, and solution-oriented</p>
-    </td>
-  </tr>
-</table>
 
 <br>
 

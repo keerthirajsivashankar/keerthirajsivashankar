@@ -92,7 +92,7 @@
   </table>
 </div>
 
----
+------
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -130,12 +130,26 @@
         <br>CSS3
       </td>
       <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="65" height="65" />
+        <br>Tailwind CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
         <br>REST API
+      </td>
+      <td align="center" width="96">
+      </td>
+      <td align="center" width="96">
+      </td>
+      <td align="center" width="96">
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
 

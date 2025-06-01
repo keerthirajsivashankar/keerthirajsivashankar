@@ -94,6 +94,8 @@
 
 ------
 
+---
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
@@ -130,7 +132,7 @@
         <br>CSS3
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="65" height="65" />
         <br>Tailwind CSS
       </td>
     </tr>
@@ -149,7 +151,7 @@
   </table>
 </div>
 
----
+------
 
 ---
 

@@ -49,7 +49,7 @@ const keerthi = {
 
 ### **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&perline=9" />
 </p>
 
 ### **Backend & Tools**
@@ -140,62 +140,13 @@ const keerthi = {
 
 ---
 
+
 ## 🎨 Skills Breakdown
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" valign="top">
-        <h3 align="center">🎨 Frontend</h3>
-        
-**Frontend Mastery**
-- ⚛️ React Hooks & Context
-- 🔄 State Management (Redux)
-- 🎯 Component Architecture
-- 🧪 Testing (Jest, RTL)
-
-**Styling & Design**
-- 🎨 Tailwind CSS Expert
-- 💅 Modern CSS
-- 📱 Responsive Design
-- ✨ CSS Animations
-
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center">🔧 Backend (Learning)</h3>
-        
-**Python Basics**
-- 🐍 Flask for APIs
-- 📊 Basic Data Handling
-- 🔗 REST API Integration
-- 🗄️ MySQL Database
-
-**Tools I Use**
-- 🔧 Git & GitHub
-- 💻 VS Code
-- 📡 Postman for APIs
-- 🎯 Learning Backend Concepts
-
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center">🧠 Problem Solving</h3>
-        
-**Competitive Programming**
-- 💪 130+ day LeetCode streak
-- 🏆 HackerRank certified
-- 🔍 Algorithm optimization
-- 📈 Data Structures mastery
-
-**Learning & Growth**
-- 📚 Continuous learner
-- 🤝 Team collaboration
-- 🎯 Solution-oriented mindset
-- 🚀 Innovation focused
-
-      </td>
-    </tr>
-  </table>
-</div>
+| 🎨 Frontend | 🔧 Backend (Learning) | 🧠 Problem Solving |
+|------------|-----------------------|---------------------|
+| **React Hooks & Context**<br>**Redux**<br>Component Architecture<br>Testing (Jest, RTL) | **Flask for APIs**<br>MySQL DB<br>REST API Integration<br>Postman | **130+ day LeetCode streak**<br>HackerRank certified<br>DSA Mastery<br>Solution-focused |
+| **Tailwind CSS**<br>Responsive Design<br>CSS Animations | Git & GitHub<br>VS Code<br>Learning backend concepts | Continuous Learner<br>Team Collaboration<br>Innovation Focused |
 
 ---
 

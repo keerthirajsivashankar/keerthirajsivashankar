@@ -50,12 +50,12 @@ const keerthi = {
 
 ### **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,bootstrap,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap&perline=9" />
 </p>
 
 ### **Backend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode&perline=7" />
 </p>
 
 ### **Currently Mastering**

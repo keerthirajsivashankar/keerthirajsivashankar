@@ -35,9 +35,11 @@ me.sayHi();
 ## 🔥 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF" />
+
 </div>
 
 <div align="center">

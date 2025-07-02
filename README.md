@@ -55,12 +55,12 @@ const keerthi = {
 
 ### **Backend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,mongodb,git,github,vscode,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,postman&perline=7" />
 </p>
 
-### **Currently Exploring**
+### **Currently Mastering**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,redux,docker,aws,tensorflow,pytorch&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,redux,typescript,tailwind&perline=4" />
 </p>
 
 </div>
@@ -112,10 +112,10 @@ const keerthi = {
         <details>
           <summary><strong>🔍 Technical Deep Dive</strong></summary>
           <br>
-          • Machine Learning algorithms for pattern recognition<br>
-          • Flask RESTful API architecture<br>
-          • Real-time data processing pipeline<br>
-          • Advanced feature engineering techniques
+          • Machine Learning for pattern detection<br>
+          • Flask REST API backend<br>
+          • Data processing and analysis<br>
+          • Simple but effective ML implementation
         </details>
       </td>
       <td width="50%" align="center">
@@ -129,10 +129,10 @@ const keerthi = {
         <details>
           <summary><strong>🔍 Technical Deep Dive</strong></summary>
           <br>
-          • React.js with modern hooks & context<br>
-          • Responsive design with Tailwind CSS<br>
-          • Real-time API integration<br>
-          • Advanced data visualization
+          • React.js with modern hooks & functional components<br>
+          • Responsive UI with Tailwind CSS<br>
+          • REST API integration with Flask backend<br>
+          • Clean component architecture & state management
         </details>
       </td>
     </tr>
@@ -150,35 +150,35 @@ const keerthi = {
         <h3 align="center">🎨 Frontend</h3>
         <div align="center">
           
-**React.js Ecosystem**
+**Frontend Mastery**
 - ⚛️ React Hooks & Context
-- 🔄 State Management (Redux/Zustand)
+- 🔄 State Management (Redux)
 - 🎯 Component Architecture
 - 🧪 Testing (Jest, RTL)
 
 **Styling & Design**
 - 🎨 Tailwind CSS Expert
-- 💅 Styled Components
+- 💅 Modern CSS
 - 📱 Responsive Design
 - ✨ CSS Animations
 
         </div>
       </td>
       <td width="33%">
-        <h3 align="center">🔧 Backend</h3>
+        <h3 align="center">🔧 Backend (Learning)</h3>
         <div align="center">
           
-**Python Development**
-- 🐍 Flask/FastAPI
-- 🤖 Machine Learning (scikit-learn)
-- 📊 Data Analysis (Pandas, NumPy)
-- 🔗 RESTful API Design
+**Python Basics**
+- 🐍 Flask for APIs
+- 📊 Basic Data Handling
+- 🔗 REST API Integration
+- 🗄️ MySQL Database
 
-**Database & Tools**
-- 🗄️ MySQL/MongoDB
-- 🔧 Git Version Control
-- 📡 API Integration
-- 🐳 Docker (Learning)
+**Tools I Use**
+- 🔧 Git & GitHub
+- 💻 VS Code
+- 📡 Postman for APIs
+- 🎯 Learning Backend Concepts
 
         </div>
       </td>
@@ -211,29 +211,28 @@ const keerthi = {
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🎯 Current] --> B[React.js Advanced]
-    B --> C[Next.js & SSR]
-    C --> D[TypeScript Integration]
-    D --> E[🚀 Full-Stack Apps]
+graph TD
+    A[🎯 Current Focus] --> B[React.js Mastery]
+    B --> C[Advanced Hooks & Patterns]
+    C --> D[State Management - Redux]
+    D --> E[Next.js Framework]
+    E --> F[TypeScript Integration]
+    F --> G[🚀 Full-Stack Ready]
     
-    F[🐍 Python ML] --> G[TensorFlow/PyTorch]
-    G --> H[Deep Learning]
-    H --> I[🤖 AI Applications]
-    
-    B --> J[State Management]
-    J --> K[Performance Optimization]
-    K --> L[🔥 Production Ready]
+    B --> H[Component Libraries]
+    H --> I[Performance Optimization]
+    I --> J[Testing & Quality]
+    J --> K[🔥 Production Apps]
 ```
 
 </div>
 
 **🎯 2025 Goals:**
-- 🏗️ Build 5+ full-stack applications
-- 🤖 Deep dive into Machine Learning
-- 🎨 Master advanced React patterns
-- 🌐 Contribute to open source projects
-- 📱 Explore mobile development
+- ⚛️ Master advanced React patterns & hooks
+- 🏗️ Build 5+ production-ready React apps
+- 🎨 Create reusable component libraries  
+- 📱 Learn React Native for mobile
+- 🚀 Contribute to React open source projects
 
 ---
 
@@ -243,11 +242,11 @@ graph LR
   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   ████████████████░░░░   65.2%
-Python       ██████████░░░░░░░░░░   42.8%
-HTML/CSS     ████░░░░░░░░░░░░░░░░   18.5%
-React        ███████████████░░░░░   62.3%
-Flask        ██████░░░░░░░░░░░░░░   24.1%
+JavaScript   ████████████████████   78.5%
+React        ███████████████████░   75.2%
+HTML/CSS     ██████████░░░░░░░░░░   42.8%
+Python       ████████░░░░░░░░░░░░   32.1%
+Tailwind     ██████░░░░░░░░░░░░░░   28.3%
 ```
 <!--END_SECTION:waka-->
 

@@ -54,7 +54,7 @@ const keerthi = {
 
 ### **Backend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,restapi&perline=7" />
 </p>
 
 ### **Currently Mastering**

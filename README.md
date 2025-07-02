@@ -14,7 +14,7 @@
 
 <table align="center">
 <tr>
-<td  width="50%">
+<td align="center" width="50%">
 
 ### 🎯 **Current Status**
 ```typescript
@@ -50,12 +50,12 @@ const keerthi = {
 
 ### **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,bootstrap,figma&perline=9" />
 </p>
 
 ### **Backend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,postman&perline=7" />
 </p>
 
 ### **Currently Mastering**
@@ -76,7 +76,7 @@ const keerthi = {
         <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=keerthirajsivashankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=keerthirajsivashankar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Coding Time Stats" />
       </td>
     </tr>
     <tr>
@@ -146,10 +146,9 @@ const keerthi = {
 <div align="center">
   <table>
     <tr>
-      <td width="33%">
+      <td width="33%" valign="top">
         <h3 align="center">🎨 Frontend</h3>
-        <div align="center">
-          
+        
 **Frontend Mastery**
 - ⚛️ React Hooks & Context
 - 🔄 State Management (Redux)
@@ -162,12 +161,10 @@ const keerthi = {
 - 📱 Responsive Design
 - ✨ CSS Animations
 
-        </div>
       </td>
-      <td width="33%">
+      <td width="33%" valign="top">
         <h3 align="center">🔧 Backend (Learning)</h3>
-        <div align="center">
-          
+        
 **Python Basics**
 - 🐍 Flask for APIs
 - 📊 Basic Data Handling
@@ -180,12 +177,10 @@ const keerthi = {
 - 📡 Postman for APIs
 - 🎯 Learning Backend Concepts
 
-        </div>
       </td>
-      <td width="33%">
+      <td width="33%" valign="top">
         <h3 align="center">🧠 Problem Solving</h3>
-        <div align="center">
-          
+        
 **Competitive Programming**
 - 💪 130+ day LeetCode streak
 - 🏆 HackerRank certified
@@ -198,7 +193,6 @@ const keerthi = {
 - 🎯 Solution-oriented mindset
 - 🚀 Innovation focused
 
-        </div>
       </td>
     </tr>
   </table>

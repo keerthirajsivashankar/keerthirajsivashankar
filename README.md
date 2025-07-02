@@ -14,7 +14,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
 ### 🎯 **Current Status**
 ```typescript

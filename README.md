@@ -34,20 +34,9 @@ me.sayHi();
 
 ## 🔥 GitHub Stats & Activity
 # Keerthi Raj S' GitHub Stats  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-## 📊 GitHub Stats  
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" />  
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />  
-
-<br clear="both" />  
-
-## 🔥 GitHub Streak  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthirajsivashankar&theme=tokyonight&hide_border=true" />  
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthirajsivashankar&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 

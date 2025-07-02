@@ -32,7 +32,6 @@ const keerthi = {
 <td align="center" width="50%">
 
 ### 📊 **Quick Stats**
-- 🏆 **Alpha Training Group** - Ranked 18th
 - ⚛️ **React.js Specialist** - Modern Web Dev
 - 🐍 **Python Enthusiast** - ML & Backend
 - 🧠 **Problem Solver** - 130+ LeetCode streak
@@ -50,12 +49,12 @@ const keerthi = {
 
 ### **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,bootstrap,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,figma&perline=9" />
 </p>
 
 ### **Backend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode&perline=7" />
 </p>
 
 ### **Currently Mastering**
@@ -224,7 +223,6 @@ graph TD
 **🎯 2025 Goals:**
 - ⚛️ Master advanced React patterns & hooks
 - 🏗️ Build 5+ production-ready React apps
-- 🎨 Create reusable component libraries  
 - 📱 Learn React Native for mobile
 - 🚀 Contribute to React open source projects
 

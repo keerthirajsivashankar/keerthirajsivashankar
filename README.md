@@ -1,251 +1,315 @@
+# 🚀 Keerthi Raj S
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Keerthi%20Raj%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Profile Header" />
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;Building+Tomorrow's+Web+Today+%F0%9F%92%AB)
+
 </div>
 
-<div width = "100%" align = "center">
-  <h2>👋 About me</h2>
-  <table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p>🎓 B.Tech IT, SRM Institute, 2026 Graduate</p>
-      <p>💻 Frontend Developer with ML interest</p>
-      <p>⚛️ Specializing in React.js & modern web development</p>
-      <p>🚀 130+ day streak on LeetCode challenges</p>
-    </td>
-    <td width="50%" valign="top">
-      <p>🌟 Alpha Training Group, Ranked 18th</p>
-      <p>🐍 Building web apps with React & Flask</p>
-      <p>🔍 Enhanced problem-solving and coding skills</p>
-      <p>🤝 Collaborative, passionate, and solution-oriented</p>
-    </td>
-  </tr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+</div>
+
+## 🌟 About Me
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Current Status**
+```typescript
+const keerthi = {
+  title: "Frontend Developer",
+  education: "B.Tech IT @ SRM Institute",
+  graduation: 2026,
+  currentFocus: ["React.js", "Machine Learning", "DSA"],
+  streak: "130+ days on LeetCode 🔥",
+  mindset: "Always learning, always building"
+};
+```
+
+</td>
+<td align="center" width="50%">
+
+### 📊 **Quick Stats**
+- 🏆 **Alpha Training Group** - Ranked 18th
+- ⚛️ **React.js Specialist** - Modern Web Dev
+- 🐍 **Python Enthusiast** - ML & Backend
+- 🧠 **Problem Solver** - 130+ LeetCode streak
+- 🎨 **UI/UX Focused** - Clean, Modern Designs
+
+</td>
+</tr>
 </table>
 
+---
+
+## 💼 Tech Arsenal
+
+<div align="center">
+
+### **Frontend Mastery**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,bootstrap,figma&perline=9" />
+</p>
+
+### **Backend & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,mongodb,git,github,vscode,postman&perline=9" />
+</p>
+
+### **Currently Exploring**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,redux,docker,aws,tensorflow,pytorch&perline=6" />
+</p>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthirajsivashankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophy" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <p><em>Frontend developer from India passionate about React.js, modern web technologies, and exploring machine learning with Python.</em></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
 </div>
 
+---
+
+## 🎯 Featured Projects
+
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🤖 Fake Social Media Detection</h3>
+        <p><em>AI-powered system to identify fake social media accounts</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        </p>
+        <details>
+          <summary><strong>🔍 Technical Deep Dive</strong></summary>
+          <br>
+          • Machine Learning algorithms for pattern recognition<br>
+          • Flask RESTful API architecture<br>
+          • Real-time data processing pipeline<br>
+          • Advanced feature engineering techniques
+        </details>
+      </td>
+      <td width="50%" align="center">
+        <h3>💳 Credit Card Fraud Detection</h3>
+        <p><em>Full-stack solution for real-time fraud detection</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+          <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
+        </p>
+        <details>
+          <summary><strong>🔍 Technical Deep Dive</strong></summary>
+          <br>
+          • React.js with modern hooks & context<br>
+          • Responsive design with Tailwind CSS<br>
+          • Real-time API integration<br>
+          • Advanced data visualization
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎨 Skills Breakdown
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h3 align="center">🎨 Frontend</h3>
+        <div align="center">
+          
+**React.js Ecosystem**
+- ⚛️ React Hooks & Context
+- 🔄 State Management (Redux/Zustand)
+- 🎯 Component Architecture
+- 🧪 Testing (Jest, RTL)
+
+**Styling & Design**
+- 🎨 Tailwind CSS Expert
+- 💅 Styled Components
+- 📱 Responsive Design
+- ✨ CSS Animations
+
+        </div>
+      </td>
+      <td width="33%">
+        <h3 align="center">🔧 Backend</h3>
+        <div align="center">
+          
+**Python Development**
+- 🐍 Flask/FastAPI
+- 🤖 Machine Learning (scikit-learn)
+- 📊 Data Analysis (Pandas, NumPy)
+- 🔗 RESTful API Design
+
+**Database & Tools**
+- 🗄️ MySQL/MongoDB
+- 🔧 Git Version Control
+- 📡 API Integration
+- 🐳 Docker (Learning)
+
+        </div>
+      </td>
+      <td width="33%">
+        <h3 align="center">🧠 Problem Solving</h3>
+        <div align="center">
+          
+**Competitive Programming**
+- 💪 130+ day LeetCode streak
+- 🏆 HackerRank certified
+- 🔍 Algorithm optimization
+- 📈 Data Structures mastery
+
+**Learning & Growth**
+- 📚 Continuous learner
+- 🤝 Team collaboration
+- 🎯 Solution-oriented mindset
+- 🚀 Innovation focused
+
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Current Learning Path
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Current] --> B[React.js Advanced]
+    B --> C[Next.js & SSR]
+    C --> D[TypeScript Integration]
+    D --> E[🚀 Full-Stack Apps]
+    
+    F[🐍 Python ML] --> G[TensorFlow/PyTorch]
+    G --> H[Deep Learning]
+    H --> I[🤖 AI Applications]
+    
+    B --> J[State Management]
+    J --> K[Performance Optimization]
+    K --> L[🔥 Production Ready]
+```
+
+</div>
+
+**🎯 2025 Goals:**
+- 🏗️ Build 5+ full-stack applications
+- 🤖 Deep dive into Machine Learning
+- 🎨 Master advanced React patterns
+- 🌐 Contribute to open source projects
+- 📱 Explore mobile development
+
+---
+
+## 📊 Coding Activity
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+```text
+JavaScript   ████████████████░░░░   65.2%
+Python       ██████████░░░░░░░░░░   42.8%
+HTML/CSS     ████░░░░░░░░░░░░░░░░   18.5%
+React        ███████████████░░░░░   62.3%
+Flask        ██████░░░░░░░░░░░░░░   24.1%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  
+**💬 Let's build something amazing together!**
+
+<p>
   <a href="https://www.linkedin.com/in/keerthi-raj-s-74a8a824b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:keerthirajsivashankar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/keerthiraj_s/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/ks7186">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/users/keerthi_raj">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   <a href="https://keerthirajsivashankar.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=GoogleHome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
   </a>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=keerthirajsivashankar&color=0099ff&style=for-the-badge" alt="Profile Views"/>
-</div>
-
----
-
-<div class="bento-grid" align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>📊 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🔝 Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>✨ Developer Toolbox</h3>
-        <div>
-          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <h3>🏆 Achievements</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar&theme=algolia&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&bg_color=0D1117" alt="GitHub Trophy" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h3>📈 Contribution Graph</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-------
-
----
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="65" height="65" />
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
-        <br>Flask
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-        <br>REST API
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-      </td>
-      <td align="center" width="96">
-      </td>
-    </tr>
-  </table>
-</div>
-
-------
-
----
-
-<h2 align="center">🌟 Current Focus</h2>
-
-<div class="bento-card" align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="60" height="60"/>
-        <br>Advanced React.js
-      </td>
-      <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python ML" width="60" height="60"/>
-        <br>Python & ML
-      </td>
-      <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
-        <br>React + Flask Apps
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Fake Social Media Detection</h3>
-      <p>ML-based system to identify fake social media accounts with Flask backend</p>
-      <img src="https://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge" alt="Machine Learning"/>
-      <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge" alt="Python"/>
-      <img src="https://img.shields.io/badge/-Flask-blue?style=for-the-badge" alt="Flask"/>
-    </td>
-    <td width="50%" align="center">
-      <h3>Credit Card Fraud Detection</h3>
-      <p>React frontend with Flask API for real-time fraud detection</p>
-      <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React"/>
-      <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge" alt="Python"/>
-      <img src="https://img.shields.io/badge/-Flask-blue?style=for-the-badge" alt="Flask"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://leetcode.com/u/keerthiraj_s/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ks7186">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64" alt="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/users/keerthi_raj">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" alt="CodeChef"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
+## 🌟 Fun Facts & Inspiration
+
 <div align="center">
-  <h2>🌌 Learning Journey</h2>
   <table>
     <tr>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="font-size: 24px; padding-right: 15px;">🚀</div>
-          <div>
-            <strong>Next Goal:</strong> Building complex React applications with advanced state management
-          </div>
-        </div>
+      <td align="center">
+        <h3>💡 Philosophy</h3>
+        <em>"Code is poetry written in logic"</em>
+        <br><br>
+        🎯 Always aiming for clean, maintainable code<br>
+        🌱 Believer in continuous learning<br>
+        🤝 Passionate about solving real-world problems<br>
+        🚀 Excited about the future of web development
       </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="font-size: 24px; padding-right: 15px;">⚡</div>
-          <div>
-            <strong>Currently:</strong> Developing React frontends with Flask backends for ML projects
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="font-size: 24px; padding-right: 15px;">✅</div>
-          <div>
-            <strong>Accomplished:</strong> Frontend development with React, Tailwind CSS, and JavaScript
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="font-size: 24px; padding-right: 15px;">📚</div>
-          <div>
-            <strong>Started:</strong> Learning programming with Python fundamentals
-          </div>
-        </div>
+      <td align="center">
+        <h3>🎵 When I'm Not Coding</h3>
+        🏃‍♂️ Maintaining fitness routines<br>
+        📚 Reading tech blogs & documentation<br>
+        🎮 Exploring new frameworks & tools<br>
+        🌟 Contributing to open source<br>
+        💡 Brainstorming project ideas
       </td>
     </tr>
   </table>
@@ -254,13 +318,21 @@
 ---
 
 <div align="center">
-  <h2>💭 Quote of the Day</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" width="70%" alt="Quote" />
+  
+### 📈 Profile Views
+<img src="https://komarev.com/ghpvc/?username=keerthirajsivashankar&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+### 💭 Daily Inspiration
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&section=footer" width="100%" alt="Footer" />
-  <p>⭐ Thanks for visiting! Let's connect and create amazing things together! ⭐</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+  
+  **⭐ "Building the future, one commit at a time" ⭐**
+  
+  <sub>💡 Open for collaborations • 🚀 Available for freelance projects • 🌟 Always learning</sub>
 </div>

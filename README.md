@@ -54,7 +54,7 @@ const keerthi = {
 
 ### **Backend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,restapi&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode&perline=7" />
 </p>
 
 ### **Currently Mastering**
@@ -140,13 +140,17 @@ const keerthi = {
 
 ---
 
-
 ## 🎨 Skills Breakdown
+
+<div align="center">
 
 | 🎨 Frontend | 🔧 Backend (Learning) | 🧠 Problem Solving |
 |------------|-----------------------|---------------------|
 | **React Hooks & Context**<br>**Redux**<br>Component Architecture<br>Testing (Jest, RTL) | **Flask for APIs**<br>MySQL DB<br>REST API Integration<br>Postman | **130+ day LeetCode streak**<br>HackerRank certified<br>DSA Mastery<br>Solution-focused |
 | **Tailwind CSS**<br>Responsive Design<br>CSS Animations | Git & GitHub<br>VS Code<br>Learning backend concepts | Continuous Learner<br>Team Collaboration<br>Innovation Focused |
+
+</div>
+
 
 ---
 

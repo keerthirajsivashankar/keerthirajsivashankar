@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Keerthi%20Raj%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 ## 🌟 About Me
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td  width="50%">
 
 ### 🎯 **Current Status**
 ```typescript

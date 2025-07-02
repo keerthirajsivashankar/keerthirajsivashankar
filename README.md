@@ -33,15 +33,17 @@ me.sayHi();
 ---
 
 ## 🔥 GitHub Stats & Activity
+# Keerthi Raj S' GitHub Stats  
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <p>
-    <b>Total Stars Earned:</b> <img src="https://img.shields.io/github/stars/keerthirajsivashankar?label=Stars&style=flat&color=00D9FF" />  
-    <b>Total Commits:</b> <img src="https://img.shields.io/github/commit-activity/y/keerthirajsivashankar?label=Commits&color=00D9FF" />  
-    <b>Total PRs:</b> <img src="https://img.shields.io/github/issues-pr/keerthirajsivashankar?label=PRs&color=00D9FF" />  
-  </p>
-</div>
+## 📊 GitHub Stats  
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" />  
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />  
+
+<br clear="both" />  
+
+## 🔥 GitHub Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthirajsivashankar&theme=tokyonight&hide_border=true" />  
 
 <div align="center">
 

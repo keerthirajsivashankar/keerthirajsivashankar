@@ -35,11 +35,12 @@ me.sayHi();
 ## 🔥 GitHub Stats & Activity
 
 <div align="center">
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF" />
-
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <b>Total Stars Earned:</b> <img src="https://img.shields.io/github/stars/keerthirajsivashankar?label=Stars&style=flat&color=00D9FF" />  
+    <b>Total Commits:</b> <img src="https://img.shields.io/github/commit-activity/y/keerthirajsivashankar?label=Commits&color=00D9FF" />  
+    <b>Total PRs:</b> <img src="https://img.shields.io/github/issues-pr/keerthirajsivashankar?label=PRs&color=00D9FF" />  
+  </p>
 </div>
 
 <div align="center">

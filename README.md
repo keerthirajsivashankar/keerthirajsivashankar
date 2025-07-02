@@ -76,7 +76,7 @@ const keerthi = {
         <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthirajsivashankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=keerthirajsivashankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>

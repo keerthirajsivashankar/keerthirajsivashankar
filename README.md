@@ -1,157 +1,266 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Keerthi%20Raj%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Profile Header" />
+</div>
 
-# 🚀 Welcome to My Digital Universe
+<div width = "100%" align = "center">
+  <h2>👋 About me</h2>
+  <table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p>🎓 B.Tech IT, SRM Institute, 2026 Graduate</p>
+      <p>💻 Frontend Developer with ML interest</p>
+      <p>⚛️ Specializing in React.js & modern web development</p>
+      <p>🚀 130+ day streak on LeetCode challenges</p>
+    </td>
+    <td width="50%" valign="top">
+      <p>🌟 Alpha Training Group, Ranked 18th</p>
+      <p>🐍 Building web apps with React & Flask</p>
+      <p>🔍 Enhanced problem-solving and coding skills</p>
+      <p>🤝 Collaborative, passionate, and solution-oriented</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+  <p><em>Frontend developer from India passionate about React.js, modern web technologies, and exploring machine learning with Python.</em></p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/keerthi-raj-s-74a8a824b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:keerthirajsivashankar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/keerthiraj_s/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ks7186">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/users/keerthi_raj">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://keerthirajsivashankar.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=GoogleHome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthirajsivashankar&color=0099ff&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+---
+
+<div class="bento-grid" align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📊 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🔝 Top Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>✨ Developer Toolbox</h3>
+        <div>
+          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <h3>🏆 Achievements</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar&theme=algolia&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&bg_color=0D1117" alt="GitHub Trophy" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>📈 Contribution Graph</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+------
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="65" height="65" />
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
+        <br>Flask
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+        <br>REST API
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+      </td>
+      <td align="center" width="96">
+      </td>
+    </tr>
+  </table>
+</div>
+
+------
+
+---
+
+<h2 align="center">🌟 Current Focus</h2>
+
+<div class="bento-card" align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="60" height="60"/>
+        <br>Advanced React.js
+      </td>
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python ML" width="60" height="60"/>
+        <br>Python & ML
+      </td>
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
+        <br>React + Flask Apps
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=640&height=150&lines=Hi+%F0%9F%91%8B+I'm+Keerthi+Raj+S;Full‑Stack+Developer+%7C+React+Virtuoso;Crafting+Pixel‑Perfect+Experiences" alt="Typing SVG" />
+### 📌 Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=160&section=header&text=Keerthi%20Raj%20S&fontSize=48&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Fake Social Media Detection</h3>
+      <p>ML-based system to identify fake social media accounts with Flask backend</p>
+      <img src="https://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge" alt="Machine Learning"/>
+      <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge" alt="Python"/>
+      <img src="https://img.shields.io/badge/-Flask-blue?style=for-the-badge" alt="Flask"/>
+    </td>
+    <td width="50%" align="center">
+      <h3>Credit Card Fraud Detection</h3>
+      <p>React frontend with Flask API for real-time fraud detection</p>
+      <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React"/>
+      <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge" alt="Python"/>
+      <img src="https://img.shields.io/badge/-Flask-blue?style=for-the-badge" alt="Flask"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 About Me
-
-```ts
-class KeerthiRajS {
-  name = "Keerthi Raj S";
-  role = "Full‑Stack Developer & UI/UX Enthusiast";
-  techStack = ["React", "Next.js", "Tailwind CSS", "TypeScript", "Node.js"];
-  currentFocus = ["Advanced React patterns", "Design systems", "Framer Motion"];
-  funFact = "I can center a div with my eyes closed 😉";
-
-  sayHi() {
-    console.log("Thanks for stopping by! Let's build something extraordinary 🚀");
-  }
-}
-
-const me = new KeerthiRajS();
-me.sayHi();
-````
-
----
-
-## 🔥 GitHub Stats & Activity
-# Keerthi Raj S' GitHub Stats  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF" />
-
-</div>
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b" width="100%" />
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🌐 Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white\&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-00D9FF?style=for-the-badge\&logo=react\&logoColor=black\&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white\&labelColor=0d1117)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white\&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node-dot-js\&logoColor=white\&labelColor=0d1117)
-
-### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white\&labelColor=0d1117)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma\&logoColor=white\&labelColor=0d1117)
-
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-| 🔥 Project               | ⚡ Tech Stack                       | ✨ Highlights                         |
-| ------------------------ | ---------------------------------- | ------------------------------------ |
-| **Portfolio 2.0**        | Next.js · Tailwind · Framer Motion | Futuristic UI + smooth animations    |
-| **E‑commerce Dashboard** | React · Redux Toolkit              | Real‑time charts + responsive design |
-| **Component Library**    | TypeScript · Storybook             | Modular, reusable UI kit             |
-
-</div>
-
-### 🌟 Focus Zone
-
-```js
-const currentFocus = {
-  primary:  "Building beautiful, scalable web apps",
-  secondary:"Experimenting with creative UI/UX",
-  exploring:"Advanced React patterns & design systems",
-  goal:     "Deliver delightful digital experiences 🚀"
-};
-```
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-130%2B_Day_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/React-Virtuoso-00D9FF?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/UI/UX-Artisan-00D9FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
-
-</div>
-
----
-
-## 📊 Weekly Dev Breakdown
-
-```text
-React Development   ███████████████████████▓   90.1%
-TypeScript          ████████████████░░░░░░░░░   65.3%
-UI Design           █████████▓░░░░░░░░░░░░░░░   42.7%
-Open Source         ████▓░░░░░░░░░░░░░░░░░░░░   18.9%
-```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/keerthi-raj-s-74a8a824b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/keerthirajsivashankar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/keerthiraj_s/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:keerthirajsivashankar@gmail.com)
-
-</div>
-
----
-
-## 🎭 Fun Zone
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
+  <h2>🌌 Learning Journey</h2>
+  <table>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">🚀</div>
+          <div>
+            <strong>Next Goal:</strong> Building complex React applications with advanced state management
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">⚡</div>
+          <div>
+            <strong>Currently:</strong> Developing React frontends with Flask backends for ML projects
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">✅</div>
+          <div>
+            <strong>Accomplished:</strong> Frontend development with React, Tailwind CSS, and JavaScript
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <div style="font-size: 24px; padding-right: 15px;">📚</div>
+          <div>
+            <strong>Started:</strong> Learning programming with Python fundamentals
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
+  <h2>💭 Quote of the Day</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" width="70%" alt="Quote" />
+</div>
 
-### 🌟 “Creativity is intelligence having fun.” — Albert Einstein
+---
 
-**Thanks for exploring my world. Let’s innovate together!** ✨
-
-![Visitor Count](https://komarev.com/ghpvc/?username=keerthirajsivashankar\&color=00D9FF\&style=for-the-badge\&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=115&section=footer&reversal=true&textBg=false" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&section=footer" width="100%" alt="Footer" />
+  <p>⭐ Thanks for visiting! Let's connect and create amazing things together! ⭐</p>
 </div>

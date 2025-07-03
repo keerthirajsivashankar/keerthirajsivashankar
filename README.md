@@ -59,22 +59,22 @@ const keerthiRaj = {
 
 ### 🎨 **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### 🔧 **Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql&theme=dark" />
 </p>
 
 ### 🛠️ **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 </p>
 
 ### 🔮 **Currently Mastering**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,redux,typescript,nodejs,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,figma&theme=dark" />
 </p>
 
 </div>

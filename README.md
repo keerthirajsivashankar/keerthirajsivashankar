@@ -341,24 +341,24 @@ graph TB
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>💭 **My Coding Philosophy**</h3>
+        <h3>💭 My Coding Philosophy</h3>
         <em>"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."</em>
         <br><br>
-        🎯 **Write code like poetry** - Beautiful & Meaningful<br>
-        🌱 **Never stop learning** - Technology evolves daily<br>
-        🤝 **Collaborate & share knowledge** - Grow together<br>
-        💡 **Solve real problems** - Technology should serve humanity<br>
-        ⚡ **Performance matters** - Every millisecond counts
+        🎯 Write code like poetry - Beautiful & Meaningful<br>
+        🌱 Never stop learning - Technology evolves daily<br>
+        🤝 Collaborate & share knowledge - Grow together<br>
+        💡 Solve real problems - Technology should serve humanity<br>
+        ⚡ Performance matters - Every millisecond counts
       </td>
       <td align="center" width="50%">
-        <h3>🎸 **Beyond The Code**</h3>
-        🏃‍♂️ **Fitness Enthusiast** - Morning runs & gym sessions<br>
-        📚 **Continuous Learner** - Tech blogs, documentation, courses<br>
-        🎮 **Tech Explorer** - Always trying new frameworks<br>
-        ☕ **Coffee Lover** - Fueling late-night coding sessions<br>
-        🌟 **Community Builder** - Active in developer communities<br>
-        🎵 **Music While Coding** - Lo-fi beats for concentration<br>
-        📱 **Early Adopter** - First to try new tech trends
+        <h3>🎸 Beyond The Code</h3>
+        🏃‍♂️ Fitness Enthusiast - Morning runs & gym sessions<br>
+        📚 Continuous Learner - Tech blogs, documentation, courses<br>
+        🎮 Tech Explorer - Always trying new frameworks<br>
+        ☕ Tea Lover - Fueling late-night coding sessions<br>
+        🌟 Community Builder - Active in developer communities<br>
+        🎵 Music While Coding - Lo-fi beats for concentration<br>
+        📱 Early Adopter - First to try new tech trends
       </td>
     </tr>
   </table>

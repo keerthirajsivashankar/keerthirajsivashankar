@@ -378,9 +378,6 @@ graph TB
 ### 💫 **Daily Motivation**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 
-### 🎵 **Currently Coding To**
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
-
 </div>
 
 ---

@@ -80,6 +80,7 @@ const keerthiRaj = {
 </div>
 
 ---
+## 📊 GitHub Analytics & Achievements
 
 <div align="center">
   <table>
@@ -96,11 +97,12 @@ const keerthiRaj = {
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&langs_count=8" alt="Top Languages" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=3&title=00FFFF&text=FFA500" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&custom_title=📈%20Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF&area=true&hide_border=true&area_color=00D9FF" width="100%"/>

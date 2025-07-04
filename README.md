@@ -22,15 +22,15 @@ const keerthiRaj = {
   title: "Frontend Developer & ML Enthusiast",
   education: "B.Tech IT @ SRM Institute of Science & Technology",
   graduation: "2026",
-  currentRole: "Full-Stack Developer in Making",
-  expertise: ["React.js", "Python", "Machine Learning", "DSA"],
+  currentRole: "Frontend Developer ",
+  expertise: ["React.js", "Python", "DSA"],
   achievements: {
-    leetcodeStreak: "130+ days 🔥",
+    leetcodeStreak: "250+ days 🔥",
     hackerRankCertified: true,
-    projectsBuilt: "10+"
+    projectsBuilt: "5+"
   },
   motto: "Code with purpose, build with passion",
-  availableFor: ["Freelance", "Open Source", "Collaborations"]
+  availableFor: ["Open To Work", "Real World Problem Solving", "Collaborations"]
 };
 ```
 

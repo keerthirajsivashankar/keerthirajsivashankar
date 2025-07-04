@@ -165,7 +165,6 @@ const keerthiRaj = {
 
 **Impact**: Aims to streamline and digitize resource allocation in institutions or small organizations
 
-[🔗 Live Demo](#) | [💻 Code](#)
 
 </td>
 </tr>
@@ -179,9 +178,7 @@ const keerthiRaj = {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🌐 **Personal Portfolio** | Modern, responsive portfolio website | React, Tailwind, Framer Motion | ✅ Live |
-| 📱 **Task Management App** | Full-featured task manager with drag-drop | React, Redux, LocalStorage | ✅ Live |
-| 🎵 **Music Player App** | Spotify-like interface with playlists | React, Context API, Web Audio API | 🚧 In Progress |
-| 🛒 **E-commerce Platform** | Complete shopping solution | React, Node.js, MongoDB | 🚧 In Progress |
+| 📱 **Task Management App** | Full-featured task manager with drag-drop | React, Redux, LocalStorage | 🚧 In Progress |
 | 📊 **Data Visualization Tool** | Interactive charts and graphs | React, D3.js, Chart.js | 📋 Planned |
 
 </details>

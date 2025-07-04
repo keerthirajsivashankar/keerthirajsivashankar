@@ -29,8 +29,7 @@ const keerthiRaj = {
     hackerRankCertified: true,
     projectsBuilt: "5+"
   },
-  motto: "Code with purpose, build with passion",
-  availableFor: ["Open To Work", "Real World Problem Solving", "Collaborations"]
+  motto: "Code with purpose, build with passion"
 };
 ```
 

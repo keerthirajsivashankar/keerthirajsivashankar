@@ -90,7 +90,7 @@ const keerthiRaj = {
         <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=00D9FF&currStreakLabel=ffffff" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00d9ff&fire=00D9FF&currStreakLabel=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>

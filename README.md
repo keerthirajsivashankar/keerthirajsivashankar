@@ -81,24 +81,22 @@ const keerthiRaj = {
 
 ---
 
-## 📊 GitHub Analytics & Achievements
-
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFA500&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00d9ff&fire=00D9FF&currStreakLabel=ffffff" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FFA500&currStreakLabel=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&langs_count=8" alt="Top Languages" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=3&title=00FFFF&text=FFA500" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>

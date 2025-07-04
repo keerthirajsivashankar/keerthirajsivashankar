@@ -34,15 +34,13 @@ const keerthiRaj = {
 ```
 
 </td>
-<td align="center" width="45%">
+<td align="left" width="45%">
 
 ### 📊 **Quick Highlights**
 🎯 **React.js Specialist** - Building Modern UIs  
 🤖 **ML Enthusiast** - AI-Powered Solutions  
-🧠 **Problem Solver** - 130+ LeetCode Streak  
 🎨 **Design-Focused** - User Experience First  
-⚡ **Performance Optimizer** - Fast & Scalable  
-🌐 **Full-Stack Ready** - Frontend to Backend  
+⚡ **Performance Optimizer** - Fast & Scalable 
 
 <img src="https://github.com/keerthirajsivashankar/keerthirajsivashankar/blob/main/assets/coding.gif" width="300px" alt="Coding GIF"/>
 

@@ -139,33 +139,31 @@ const keerthiRaj = {
 - 📊 Interactive dashboard with visualizations
 - 🔒 Secure API endpoints
 
-**Impact:** 95% accuracy in fake profile detection
+**Impact:** 91% accuracy in fake profile detection
 
-[🔗 View Project](#) | [💻 Code](#)
+ [💻 Code](https://github.com/keerthirajsivashankar/Fake_ID_Detection)
 
 </td>
 <td width="50%" align="center">
 
-#### 💳 **Real-Time Credit Card Fraud Detection**
-*Full-stack solution with React frontend and ML backend*
+#### **Resource Management System**
+*End-to-end system for managing digital and physical resources across departments*
 
-<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge" />
 
 **Tech Stack:**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-</p>
+
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p>
 
 **Key Features:**
-- ⚛️ Modern React hooks & context API
-- 🎨 Responsive UI with Tailwind CSS
-- 🔄 Real-time fraud detection
-- 📱 Mobile-first design approach
 
-**Impact:** Processing 1000+ transactions/minute
+- 🧾 Role-based resource access & request system
+- 🧩 Responsive and modular front-end
+- 🔍 Resource tracking with real-time availability
+- 💡 Flask-powered backend with RESTful routes
+- 🗄️ MySQL for data persistence and reporting
+
+**Impact**: Aims to streamline and digitize resource allocation in institutions or small organizations
 
 [🔗 Live Demo](#) | [💻 Code](#)
 

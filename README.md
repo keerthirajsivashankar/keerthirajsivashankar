@@ -105,7 +105,7 @@ const keerthiRaj = {
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&custom_title=📈%20Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF&area=true&hide_border=true&area_color=00D9FF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthirajsivashankar&custom_title=📈%20Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=00FFFF&point=FFA500&area=true&hide_border=true&area_color=00D9FF" width="100%"/>
 </div>
 
 ---

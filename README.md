@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;Building+Tomorrow's+Web+Today+%F0%9F%92%AB;130%2B+Days+LeetCode+Streak+%F0%9F%94%A5)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;Building+Tomorrow's+Web+Today+%F0%9F%92%AB;270%2B+Days+LeetCode+Streak+%F0%9F%94%A5)
 
 </div>
 
@@ -83,7 +83,8 @@ const keerthiRaj = {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFA500&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFA500&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FFA500&currStreakLabel=ffffff" alt="GitHub Streak" />

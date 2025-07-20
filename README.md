@@ -236,9 +236,9 @@ graph TB
     B --> B3[TypeScript Deep Dive]
     B --> B4[React Native]
     
-    C --> C1[Node.js & Express]
-    C --> C2[MongoDB & Mongoose]
-    C --> C3[GraphQL APIs]
+    C --> C1[Python & Flask & Django]
+    C --> C2[SQL & MySQL]
+    C --> C3[RESTFUL APIs]
     C --> C4[Python FastAPI]
     
     D --> D1[Docker Containers]

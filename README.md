@@ -1,7 +1,6 @@
 Hi, I'm Keerthi Raj S 👋
 <div align="center">
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;270%2B+Days+LeetCode+Streak+%F0%9F%94%A5
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;270%2B+Days+LeetCode+Streak+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 🚀 About Me
 Frontend Developer passionate about creating clean, efficient web applications and exploring machine learning. Currently pursuing B.Tech IT at SRM Institute, graduating in 2026.

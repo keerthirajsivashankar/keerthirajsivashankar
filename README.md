@@ -1,7 +1,7 @@
 # Hi, I'm Keerthi Raj S 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;LeetCode+🔥+270%2B+Days+Streak" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;270%2B+Days+LeetCode+Streak+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 ---

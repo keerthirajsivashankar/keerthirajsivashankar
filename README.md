@@ -1,37 +1,29 @@
 # Hi, I'm Keerthi Raj S 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+ML+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;270%2B+Days+LeetCode+Streak+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Full-Stack+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;270%2B+Days+LeetCode+Streak+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me  
+## 👨‍💻 About Me  
 
-👨‍💻 Frontend Developer passionate about building **clean, scalable, and user-focused web applications**.  
-🤖 ML Enthusiast exploring how **AI can make apps smarter**.  
-🎓 Pursuing **B.Tech IT @ SRM Institute (Graduation: 2026)**.  
+Frontend developer turned **full-stack learner** passionate about building **scalable, user-centric applications**.  
+I thrive on solving real-world problems, integrating **AI/ML** into applications, and writing **clean, maintainable code**.  
 
-- 🔭 Currently working on **ML-powered web apps**  
-- 🌱 Learning **Advanced React patterns & TypeScript**  
-- 💪 270+ Day **LeetCode streak** (discipline = 🔑)  
-- 🎯 Open for **internships & collaborations**  
+- 🔭 Currently working on: **AI-powered and full-stack web apps**  
+- 🌱 Growing in: **Advanced React patterns, TypeScript & GenAI**  
+- 🏆 Discipline: **270+ Day LeetCode streak**  
+- 🎯 Goal: Become a **well-rounded software engineer** contributing to impactful projects  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Frontend  
-React.js • JavaScript (ES6+) • HTML5 • CSS3  
-Tailwind CSS • Bootstrap  
-
-### ⚙️ Backend & ML  
-Python • Flask • MySQL  
-Scikit-Learn • Pandas  
-
-### 🧰 Tools  
-Git • GitHub • VS Code  
-Postman • Vercel  
+**Frontend:** React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap  
+**Backend:** Python • Flask • MySQL • REST APIs  
+**ML/AI:** Scikit-Learn • Pandas  
+**Tools:** Git • GitHub • VS Code • Postman • Vercel  
 
 ---
 
@@ -51,12 +43,12 @@ Postman • Vercel
 ## 🏆 Featured Projects  
 
 ### 🤖 Fake Social Media Detection  
-AI-powered system identifying **fake social media profiles with 91% accuracy**  
+AI system detecting fake social media profiles with **91% accuracy**  
 **Tech:** Python, Flask, Scikit-Learn, Pandas  
 
-### 📋 Resource Management System  
-Full-stack system for managing **digital & physical resources**  
-**Tech:** HTML/CSS/JS, Flask, MySQL *(In Development)*  
+### 📋 Resource Management System *(In Development)*  
+Manages **digital & physical resources** across an organization  
+**Tech:** HTML/CSS/JS, Flask, MySQL  
 
 ### 💳 Credit Card Fraud Detection  
 Fraud prevention system using **Isolation Forest Algorithm**  
@@ -64,7 +56,7 @@ Fraud prevention system using **Isolation Forest Algorithm**
 
 ---
 
-## 💻 Coding Platforms  
+## 💻 Competitive Programming  
 
 <div align="center">
   <a href="https://leetcode.com/u/keerthiraj_s/">
@@ -80,7 +72,7 @@ Fraud prevention system using **Isolation Forest Algorithm**
 
 ---
 
-## 📫 Let's Connect  
+## 📫 Connect with Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keerthi-raj-s-74a8a824b/">

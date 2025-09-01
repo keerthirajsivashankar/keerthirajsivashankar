@@ -21,8 +21,7 @@ I thrive on solving real-world problems, integrating **AI/ML** into applications
 ## 🛠️ Tech Stack  
 
 **Frontend:** React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap  
-**Backend:** Python • Flask • MySQL • REST APIs  
-**ML/AI:** Scikit-Learn • Pandas  
+**Backend:** Python • Flask • MySQL • REST APIs
 **Tools:** Git • GitHub • VS Code • Postman • Vercel  
 
 ---

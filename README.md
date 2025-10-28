@@ -55,22 +55,17 @@ I'm a **Frontend Developer** with a strong foundation in **React.js** and modern
 
 ## 🚀 Featured Projects
 
-### 🤖 [Fake Social Media Account Detection](https://github.com/keerthirajsivashankar)
+### 🤖 [Fake Social Media Account Detection](https://github.com/keerthirajsivashankar/Fraud_Detection_system)
 AI-powered system for detecting fake social media profiles using **Random Forest algorithm**
 - Achieved **91% detection accuracy** in real-time validation
 - Presented research paper at **International Conference on Advances in Engineering and Medical Sciences (2025)**
 - **Tech Stack:** Python, Flask, Scikit-learn, Pandas, NumPy, React
 
-### 📋 [Resource Management System](https://github.com/keerthirajsivashankar)
+### 📋 [Resource Management System](https://github.com/keerthirajsivashankar/Resource_Management_System)
 Role-based platform for managing institutional resources with real-time booking control
 - Handles **classrooms, projectors, and digital resources** with approval workflows
 - Implements secure authentication and efficient resource tracking
 - **Tech Stack:** Flask, MySQL, HTML/CSS/JavaScript
-
-### 💳 Credit Card Fraud Detection
-Real-time fraud prevention system using **Isolation Forest algorithm**
-- Detects anomalous transactions with high precision
-- **Tech Stack:** Python, Flask, REST API, Machine Learning
 
 ---
 
@@ -109,9 +104,6 @@ Explored AI's evolution from domain-specific applications to broad technological
   </a>
   <a href="mailto:keerthirajsivashankar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/keerthirajsivashankar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.codechef.com/users/keerthi_raj">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>

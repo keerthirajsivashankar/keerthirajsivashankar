@@ -10,7 +10,7 @@
 
 I'm a **Frontend Developer** with a strong foundation in **React.js** and modern web technologies, currently expanding my expertise into **backend development** and **AI/ML integration**. I'm passionate about building scalable, user-centric applications and solving real-world problems through code.
 
-- 🎓 B.Tech in Information Technology | SRM IST Ramapuram (CGPA: 9.54/10)
+- 🎓 B.Tech in Information Technology | SRM IST Ramapuram 
 - 💼 Former Frontend Developer Intern at **ThinkUni**
 - 🔭 Currently exploring: **Flask, REST APIs, MySQL** and **AI/ML applications**
 - 🌱 Learning: **Backend architectures** and **Artificial Intelligence**

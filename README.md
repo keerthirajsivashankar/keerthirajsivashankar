@@ -46,15 +46,16 @@ I'm a **Frontend Developer** with a strong foundation in **React.js** and modern
 
   <!-- Stats + Streak -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=tokyonight&hide_border=true" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KeerthirajSivashankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KeerthirajSivashankar&theme=tokyonight&hide_border=true" width="49%" />
   </div>
 
   <!-- Top Languages -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthirajSivashankar&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
+
 
 ---
 

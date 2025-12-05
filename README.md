@@ -44,17 +44,19 @@ I'm a **Frontend Developer** with a strong foundation in **React.js** and modern
 
 <div align="center">
 
-  <!-- Stats + Streak -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=KeerthirajSivashankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KeerthirajSivashankar&theme=tokyonight&hide_border=true" width="49%" />
-  </div>
+  <!-- Stats -->
+  <img src="https://github-readme-stats-git-master.rahuldkjain.vercel.app/api?username=KeerthirajSivashankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KeerthirajSivashankar&theme=tokyonight&hide_border=true" width="49%" />
+
+  <br/><br/>
 
   <!-- Top Languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthirajSivashankar&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-git-master.rahuldkjain.vercel.app/api/top-langs/?username=KeerthirajSivashankar&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
+
 
 
 ---

@@ -1,7 +1,7 @@
 # Hi, I'm Keerthi Raj S 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer;Exploring+Backend+Technologies;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer;Exploring+Backend+Technologies;Building+Scalable+Applications" alt="Typing SVG" />
 </div>
 
 ---
@@ -43,21 +43,13 @@ I'm a **Frontend Developer** with a strong foundation in **React.js** and modern
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Stats -->
-  <img src="https://github-readme-stats-git-master.rahuldkjain.vercel.app/api?username=KeerthirajSivashankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KeerthirajSivashankar&theme=tokyonight&hide_border=true" width="49%" />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-master.rahuldkjain.vercel.app/api/top-langs/?username=KeerthirajSivashankar&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=KeerthirajSivashankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KeerthirajSivashankar&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthirajSivashankar&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</div>
 
 ---
 

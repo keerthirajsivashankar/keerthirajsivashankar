@@ -13,7 +13,7 @@ I'm a **Frontend Developer** with a strong foundation in **React.js** and modern
 - 🎓 B.Tech in Information Technology | SRM IST Ramapuram 
 - 💼 Former Frontend Developer Intern at **ThinkUni**
 - 🔭 Currently exploring: **Flask, REST APIs, MySQL** and **AI/ML applications**
-- 🌱 Learning: **Backend architectures** and **Artificial Intelligence**
+- 🌱 Learning: **Backend architectures** 
 - 🎯 Goal: Build impactful, end-to-end web solutions
 
 ---

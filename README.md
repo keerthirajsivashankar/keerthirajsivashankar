@@ -1,41 +1,98 @@
-<h1 align="center">Hi 👋, I'm Keerthi Raj S</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+# Hi, I'm Keerthi Raj S 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthirajsivashankar&label=Profile%20views&color=0e75b6&style=flat" alt="keerthirajsivashankar" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Full-Stack+Enthusiast;React.js+%7C+Python+%7C+Problem+Solver;270%2B+Days+LeetCode+Streak+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthirajsivashankar" alt="keerthirajsivashankar" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Fraud Detection using Isolaion Forest Algorithm](https://github.com/keerthirajsivashankar/Data-Detective)
+## 👨‍💻 About Me  
 
-- 🌱 I’m currently learning **Django,RESTFUL API,React JS**
+Frontend developer turned **full-stack learner** passionate about building **scalable, user-centric applications**.  
+I thrive on solving real-world problems, integrating **AI/ML** into applications, and writing **clean, maintainable code**.  
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 🔭 Currently working on: **AI-powered and full-stack web apps**  
+- 🌱 Growing in: **Advanced React patterns, TypeScript & GenAI**  
+- 🏆 Discipline: **270+ Day LeetCode streak**  
+- 🎯 Goal: Become a **well-rounded software engineer** contributing to impactful projects  
 
-- 🤝 I’m looking for help with [Data Analysis](https://github.com/keerthirajsivashankar/Data_analysis)
+---
 
-- 👨‍💻 All of my projects are available at [https://keerthirajsivashankar.github.io/Portfolio/](https://keerthirajsivashankar.github.io/Portfolio/)
+## 🛠️ Tech Stack  
 
-- 💬 Ask me about **Python,HTML,CSS,JS**
+**Frontend:** React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap  
+**Backend:** Python • Flask • MySQL • REST APIs  
+**ML/AI:** Scikit-Learn • Pandas  
+**Tools:** Git • GitHub • VS Code • Postman • Vercel  
 
-- 📫 How to reach me **keerthirajsivashankar@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1_VPAe-vlR0j-zjbld_Lj8hLamNU0GKy9?usp=drive_link](https://drive.google.com/drive/folders/1_VPAe-vlR0j-zjbld_Lj8hLamNU0GKy9?usp=drive_link)
+## 📊 GitHub Stats  
 
-- ⚡ Fun fact **I Love to work with Frontend more**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthirajsivashankar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keerthi-raj-s-74a8a824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthi-raj-s-74a8a824b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/keerthi_raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keerthi_raj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ks7186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ks7186" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keerthiraj_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthiraj_s" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajsivashankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthirajsivashankar&show_icons=true&locale=en&layout=compact" alt="keerthirajsivashankar" /></p>
+## 🏆 Featured Projects  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthirajsivashankar&show_icons=true&locale=en" alt="keerthirajsivashankar" /></p>
+### 🤖 Fake Social Media Detection  
+AI system detecting fake social media profiles with **91% accuracy**  
+**Tech:** Python, Flask, Scikit-Learn, Pandas  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthirajsivashankar&" alt="keerthirajsivashankar" /></p>
+### 📋 Resource Management System *(In Development)*  
+Manages **digital & physical resources** across an organization  
+**Tech:** HTML/CSS/JS, Flask, MySQL  
+
+### 💳 Credit Card Fraud Detection  
+Fraud prevention system using **Isolation Forest Algorithm**  
+**Tech:** Python, Flask, REST API  
+
+---
+
+## 💻 Competitive Programming  
+
+<div align="center">
+  <a href="https://leetcode.com/u/keerthiraj_s/">
+    <img src="https://img.shields.io/badge/LeetCode-270%2B%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ks7186">
+    <img src="https://img.shields.io/badge/HackerRank-5%20Stars-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/keerthi_raj">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Stars-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📫 Connect with Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/keerthi-raj-s-74a8a824b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:keerthirajsivashankar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://keerthirajsivashankar.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthirajsivashankar&color=2563EB&style=flat-square" alt="Profile Views" />
+</div>
+
+---
+
+✨ *"Code, learn, grow — repeat. Consistency beats everything."* 🚀
+
